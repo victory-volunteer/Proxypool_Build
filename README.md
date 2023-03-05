@@ -1,0 +1,2 @@
+# Proxypool_Build
+使用python通过redis存储实现代理池
